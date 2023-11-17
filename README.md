@@ -1,4 +1,3 @@
-# The Longest Joke in the World
 ### Lost in the Desert
 
 So, there's a man crawling through the desert.
